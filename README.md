@@ -26,7 +26,7 @@ This project aims to develop a machine learning model to assist in the early det
 
 ## Dataset
 
-The dataset used for this project is [describe the dataset here, e.g., source, size, features, etc.]. It contains [number of images] of lung scans, including [number of cancerous and non-cancerous images].
+The dataset used for this project is [describe the dataset here, e.g., source, size, features, etc.]. 
 
 ## Installation
 
