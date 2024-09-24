@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to develop a machine learning model to assist in the early detection of lung cancer. Utilizing various algorithms, we analyze medical imaging data to classify images as either cancerous or non-cancerous. Early detection of lung cancer can significantly improve treatment outcomes and patient survival rates.
+This project aims to develop a machine learning model to assist in the early detection of lung cancer. Utilizing various supervised learning algorithms, we analyze medical imaging data to classify images as either cancerous or non-cancerous. Early detection of lung cancer can significantly improve treatment outcomes and patient survival rates.
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ This project aims to develop a machine learning model to assist in the early det
 
 ## Dataset
 
-The dataset used for this project is [describe the dataset here, e.g., source, size, features, etc.]. 
+The dataset used for this project is [describe the dataset here, e.g., source, size, features, etc.].
 
 ## Installation
 
